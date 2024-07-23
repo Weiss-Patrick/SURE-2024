@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/light_follower_contoller/light_follower_contoller.egg-info
+writing ../../build/light_follower_contoller/light_follower_contoller.egg-info/PKG-INFO
+writing dependency_links to ../../build/light_follower_contoller/light_follower_contoller.egg-info/dependency_links.txt
+writing entry points to ../../build/light_follower_contoller/light_follower_contoller.egg-info/entry_points.txt
+writing requirements to ../../build/light_follower_contoller/light_follower_contoller.egg-info/requires.txt
+writing top-level names to ../../build/light_follower_contoller/light_follower_contoller.egg-info/top_level.txt
+writing manifest file '../../build/light_follower_contoller/light_follower_contoller.egg-info/SOURCES.txt'
+reading manifest file '../../build/light_follower_contoller/light_follower_contoller.egg-info/SOURCES.txt'
+writing manifest file '../../build/light_follower_contoller/light_follower_contoller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/acer/continuum_arm_ws/build/light_follower_contoller/build
+creating /home/acer/continuum_arm_ws/build/light_follower_contoller/build/lib
+creating /home/acer/continuum_arm_ws/build/light_follower_contoller/build/lib/light_follower_contoller
+copying light_follower_contoller/__init__.py -> /home/acer/continuum_arm_ws/build/light_follower_contoller/build/lib/light_follower_contoller
+running install
+running install_lib
+creating /home/acer/continuum_arm_ws/install/light_follower_contoller/lib/python3.10/site-packages/light_follower_contoller
+copying /home/acer/continuum_arm_ws/build/light_follower_contoller/build/lib/light_follower_contoller/__init__.py -> /home/acer/continuum_arm_ws/install/light_follower_contoller/lib/python3.10/site-packages/light_follower_contoller
+byte-compiling /home/acer/continuum_arm_ws/install/light_follower_contoller/lib/python3.10/site-packages/light_follower_contoller/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/acer/continuum_arm_ws/install/light_follower_contoller/share/ament_index
+creating /home/acer/continuum_arm_ws/install/light_follower_contoller/share/ament_index/resource_index
+creating /home/acer/continuum_arm_ws/install/light_follower_contoller/share/ament_index/resource_index/packages
+copying resource/light_follower_contoller -> /home/acer/continuum_arm_ws/install/light_follower_contoller/share/ament_index/resource_index/packages
+copying package.xml -> /home/acer/continuum_arm_ws/install/light_follower_contoller/share/light_follower_contoller
+running install_egg_info
+Copying ../../build/light_follower_contoller/light_follower_contoller.egg-info to /home/acer/continuum_arm_ws/install/light_follower_contoller/lib/python3.10/site-packages/light_follower_contoller-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/acer/continuum_arm_ws/build/light_follower_contoller/install.log'

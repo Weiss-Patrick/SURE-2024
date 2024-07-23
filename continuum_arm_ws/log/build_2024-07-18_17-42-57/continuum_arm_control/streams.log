@@ -1,0 +1,20 @@
+[1.766s] Invoking command in '/home/acer/continuum_arm_ws/src/continuum_arm_control': PYTHONPATH=/home/acer/continuum_arm_ws/build/continuum_arm_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/acer/continuum_arm_ws/install/continuum_arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/continuum_arm_control build --build-base /home/acer/continuum_arm_ws/build/continuum_arm_control/build install --record /home/acer/continuum_arm_ws/build/continuum_arm_control/install.log --single-version-externally-managed
+[2.053s] running egg_info
+[2.053s] writing ../../build/continuum_arm_control/continuum_arm_control.egg-info/PKG-INFO
+[2.053s] writing dependency_links to ../../build/continuum_arm_control/continuum_arm_control.egg-info/dependency_links.txt
+[2.055s] writing entry points to ../../build/continuum_arm_control/continuum_arm_control.egg-info/entry_points.txt
+[2.055s] writing requirements to ../../build/continuum_arm_control/continuum_arm_control.egg-info/requires.txt
+[2.061s] writing top-level names to ../../build/continuum_arm_control/continuum_arm_control.egg-info/top_level.txt
+[2.063s] reading manifest file '../../build/continuum_arm_control/continuum_arm_control.egg-info/SOURCES.txt'
+[2.113s] writing manifest file '../../build/continuum_arm_control/continuum_arm_control.egg-info/SOURCES.txt'
+[2.127s] running build
+[2.127s] running build_py
+[2.128s] running install
+[2.131s] running install_lib
+[2.131s] running install_egg_info
+[2.131s] removing '/home/acer/continuum_arm_ws/install/continuum_arm_control/lib/python3.10/site-packages/continuum_arm_control-0.0.0-py3.10.egg-info' (and everything under it)
+[2.131s] Copying ../../build/continuum_arm_control/continuum_arm_control.egg-info to /home/acer/continuum_arm_ws/install/continuum_arm_control/lib/python3.10/site-packages/continuum_arm_control-0.0.0-py3.10.egg-info
+[2.141s] running install_scripts
+[2.191s] Installing arm_controller script to /home/acer/continuum_arm_ws/install/continuum_arm_control/lib/continuum_arm_control
+[2.204s] writing list of installed files to '/home/acer/continuum_arm_ws/build/continuum_arm_control/install.log'
+[2.371s] Invoked command in '/home/acer/continuum_arm_ws/src/continuum_arm_control' returned '0': PYTHONPATH=/home/acer/continuum_arm_ws/build/continuum_arm_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/acer/continuum_arm_ws/install/continuum_arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/continuum_arm_control build --build-base /home/acer/continuum_arm_ws/build/continuum_arm_control/build install --record /home/acer/continuum_arm_ws/build/continuum_arm_control/install.log --single-version-externally-managed

@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/light_follower_controller/light_follower_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/light_follower_controller/light_follower_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/light_follower_controller/light_follower_controller.egg-info/entry_points.txt
+writing requirements to ../../build/light_follower_controller/light_follower_controller.egg-info/requires.txt
+writing top-level names to ../../build/light_follower_controller/light_follower_controller.egg-info/top_level.txt
+reading manifest file '../../build/light_follower_controller/light_follower_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/light_follower_controller/light_follower_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying light_follower_controller/light_sensing_node.py -> /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller
+copying light_follower_controller/motor_controller.py -> /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller
+running install
+running install_lib
+copying /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller/motor_controller.py -> /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller
+copying /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller/light_sensing_node.py -> /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller
+byte-compiling /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller/motor_controller.py to motor_controller.cpython-310.pyc
+byte-compiling /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller/light_sensing_node.py to light_sensing_node.cpython-310.pyc
+running install_egg_info
+removing '/home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/light_follower_controller/light_follower_controller.egg-info to /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller-0.0.0-py3.10.egg-info
+running install_scripts
+Installing light_sensing_node script to /home/acer/continuum_arm_ws/install/light_follower_controller/lib/light_follower_controller
+writing list of installed files to '/home/acer/continuum_arm_ws/build/light_follower_controller/install.log'

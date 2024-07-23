@@ -1,0 +1,26 @@
+[1.665s] Invoking command in '/home/acer/continuum_arm_ws/src/light_follower_controller': PYTHONPATH=/home/acer/continuum_arm_ws/build/light_follower_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/light_follower_controller build --build-base /home/acer/continuum_arm_ws/build/light_follower_controller/build install --record /home/acer/continuum_arm_ws/build/light_follower_controller/install.log --single-version-externally-managed
+[1.927s] running egg_info
+[1.959s] writing ../../build/light_follower_controller/light_follower_controller.egg-info/PKG-INFO
+[1.967s] writing dependency_links to ../../build/light_follower_controller/light_follower_controller.egg-info/dependency_links.txt
+[1.967s] writing entry points to ../../build/light_follower_controller/light_follower_controller.egg-info/entry_points.txt
+[1.967s] writing requirements to ../../build/light_follower_controller/light_follower_controller.egg-info/requires.txt
+[1.967s] writing top-level names to ../../build/light_follower_controller/light_follower_controller.egg-info/top_level.txt
+[1.978s] reading manifest file '../../build/light_follower_controller/light_follower_controller.egg-info/SOURCES.txt'
+[2.009s] writing manifest file '../../build/light_follower_controller/light_follower_controller.egg-info/SOURCES.txt'
+[2.019s] running build
+[2.019s] running build_py
+[2.020s] copying light_follower_controller/light_sensing_node.py -> /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller
+[2.020s] copying light_follower_controller/motor_controller.py -> /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller
+[2.027s] running install
+[2.028s] running install_lib
+[2.028s] copying /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller/motor_controller.py -> /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller
+[2.028s] copying /home/acer/continuum_arm_ws/build/light_follower_controller/build/lib/light_follower_controller/light_sensing_node.py -> /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller
+[2.033s] byte-compiling /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller/motor_controller.py to motor_controller.cpython-310.pyc
+[2.034s] byte-compiling /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller/light_sensing_node.py to light_sensing_node.cpython-310.pyc
+[2.035s] running install_egg_info
+[2.035s] removing '/home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.035s] Copying ../../build/light_follower_controller/light_follower_controller.egg-info to /home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages/light_follower_controller-0.0.0-py3.10.egg-info
+[2.038s] running install_scripts
+[2.091s] Installing light_sensing_node script to /home/acer/continuum_arm_ws/install/light_follower_controller/lib/light_follower_controller
+[2.111s] writing list of installed files to '/home/acer/continuum_arm_ws/build/light_follower_controller/install.log'
+[2.188s] Invoked command in '/home/acer/continuum_arm_ws/src/light_follower_controller' returned '0': PYTHONPATH=/home/acer/continuum_arm_ws/build/light_follower_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/acer/continuum_arm_ws/install/light_follower_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/light_follower_controller build --build-base /home/acer/continuum_arm_ws/build/light_follower_controller/build install --record /home/acer/continuum_arm_ws/build/light_follower_controller/install.log --single-version-externally-managed
